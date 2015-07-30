@@ -1,0 +1,13 @@
+table {
+	margin: 20px;
+}
+
+th {
+	background-color: #4169e1;
+	font-weight: normal;
+	color: white;
+}
+
+td {
+	background-color: #87ceeb;
+}
